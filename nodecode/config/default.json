@@ -1,0 +1,7 @@
+{
+    "port" : 9999,
+    "host" : "localhost",
+    "user" : "Prashant",
+    "password" : "Manager@123",
+    "database" : "hackathon3"
+}
